@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+ My name is Aidan, I'm currently studying astrodynamics at Purdue. My goal is to create simulation software to track things in space.
+
 <!--
 **AidanV0908/AidanV0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
